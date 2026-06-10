@@ -34,7 +34,7 @@ site_author = "<your name here>"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+Copyright &copy; 2026 FRCElectrical.org
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -266,7 +266,7 @@ features = [
 # - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
 #[project.theme.icon]
-#logo = "lucide/smile"
+#logo = "lucide/zap"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
