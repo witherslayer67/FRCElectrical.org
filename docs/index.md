@@ -3,6 +3,7 @@ icon: lucide/rocket
 ---
 
 # Get started
+## test
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
